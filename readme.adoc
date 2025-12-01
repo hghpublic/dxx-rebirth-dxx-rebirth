@@ -1,0 +1,46 @@
+= DXX-Rebirth
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+[IMPORTANT]
+====
+The commits in this branch are highly unstable. I rebase and force push at will.
+
+The history may be rewritten without notice.
+====
+
+== Descent 1 & 2
+
+https://github.com/dxx-rebirth/dxx-rebirth
+
+=== scons
+
+DXX-Rebirth, SConstruct file help::
+----
+Type 'scons' to build the binary.
+Type 'scons install' to build (if it hasn't been done) and install.
+Type 'scons -c' to clean up.
+
+Extra options (add them to command line, like 'scons extraoption=value'):
+d1x=[0/1]        Disable/enable D1X-Rebirth
+d1x=prefix-list  Enable D1X-Rebirth with prefix-list modifiers
+d2x=[0/1]        Disable/enable D2X-Rebirth
+d2x=prefix-list  Enable D2X-Rebirth with prefix-list modifiers
+dxx=VALUE        Equivalent to d1x=VALUE d2x=VALUE
+----
+
+=== GOG
+
+https://www.gog.com/de/game/descent
+
+https://www.gog.com/de/game/descent_2
+
+== Descent 3
+
+=== GOG
+
+https://www.gog.com/de/game/descent_3_expansion
