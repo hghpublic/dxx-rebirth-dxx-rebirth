@@ -1,0 +1,23 @@
+= SCons
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+:tip-caption: :bulb:
+:see-also-caption: :arrow_right:
+:download-caption: :arrow_down:
+:edit-caption: :pencil2:
+:source-caption: :page_facing_up:
+:contribute-caption: :busts_in_silhouette:
+:translate-caption: :globe_with_meridians:
+:license-caption: :balance_scale:
+
+== SCons
+
+https://scons.org/
+
+=== GitHub
+
+https://github.com/SCons/scons
